@@ -15,6 +15,12 @@ My Projects
 - Personal Portfolio Website
 
 My Goal
+## Skills
+- Learning C Programming
+- Learning HTML and CSS
+
+## Projects
+- Personal Portfolio Website
 
 To improve my coding skills and prepare for internship opportunities.
 
